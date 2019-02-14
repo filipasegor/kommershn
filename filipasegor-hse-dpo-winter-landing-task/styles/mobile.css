@@ -1,0 +1,221 @@
+@media (min-width: 320px){
+
+
+  .logo{
+    width: 130px;
+  }
+
+  header {
+
+    top: 0;
+    left: 0;
+
+    display: flex;
+
+    width: 100vw;
+    padding: 5px 10px;
+
+    background-color: rgba(255, 255, 255, 0.5);
+
+
+    justify-content: space-between;
+    align-items: center;
+
+    margin-bottom: 50px;
+    margin-top: 20px;
+
+  }
+
+  nav {
+    display: none;
+  }
+
+  .What-is-it,
+  .What-about-it,
+  .is-principles,
+  .is-advantages{
+
+   text-align: center;
+   margin: 10px 10px 0px;
+
+  }
+
+
+  .What-is-it h1 {
+    font-family: "EB Garamond", serif;
+
+    font-size: 50px;
+    font-weight: 400;
+    line-height: 55px;
+    padding-bottom: 14px;
+
+  }
+
+  .main-image img{
+    width: 319px;
+
+  }
+
+  .main-image{
+    text-align: center;
+  }
+
+
+
+
+  h1{
+  font-family: "EB Garamond", serif;
+
+  font-size: 50px;
+  font-weight: 400;
+  line-height: 55px;
+  padding-bottom: 14px;
+
+  }
+
+  p{
+    font-family: "Geometria", sans-serif;
+    font-size: 16px;
+    line-height: 23px;
+    font-weight: 400;
+
+  }
+
+  .is-principles{
+    margin-top: 53px;
+
+  }
+
+  .principles-wrapper{
+    margin-left:
+  }
+
+  .simple img{
+    width: 83px;
+  }
+
+  .no-caesure img{
+    width: 109px;
+  }
+
+  .interesting img{
+    width: 96px;
+  }
+
+  .btn {
+    display: inline-block;
+
+    padding: 13px 30px;
+
+    text-decoration: none;
+
+    font-family: "Geometria", sans-serif;
+    font-size: 16px;
+    font-weight: 500;
+    color: #fff;
+    border-radius: 7px;
+    background: #E52F2B;
+    margin-top: 30px
+  }
+
+  .is-read-and-write{
+    text-align: center;
+
+
+  }
+  .is-read-and-write img{
+    width: 320px;
+    margin-bottom: 40px;
+   }
+
+
+  h2{
+    text-align: center;
+
+    font-family: "Geometria",sans-serif;
+    font-weight: 500;
+    font-size: 21px;
+  }
+
+  .principles-wrapper{
+    margin-top: 50px;
+  }
+
+
+
+  .is-principles h3{
+    font-family: "Geometria",sans-serif;
+    font-weight: 600;
+    font-size: 25px;
+
+    margin-top: 25px;
+    margin-bottom: 10px;
+  }
+
+  .is-principles article{
+    margin-bottom: 43px;
+
+  }
+
+
+  .extra-paragraph{
+    margin-top: 17px;
+  }
+
+  .is-advantages article{
+    margin-top: 64px;
+  }
+  .is-advantages img{
+    width: 250px;
+    text-align: center;
+  }
+
+  .footer{
+    background-color: #D53835;
+
+    text-align: left;
+
+  }
+
+  .footer-content{
+    padding-top: 21px;
+    padding-bottom: 90px;
+    margin-left: 15px;
+
+  }
+
+  .logo-footer{
+    width: 174px;
+    margin-bottom: 36px;
+  }
+
+  .footer-menu a {
+    text-decoration: none;
+    color: #FFFFFF;
+
+    font-family: "Geometria", sans-serif;
+    font-size: 22px;
+    font-weight: 400;
+
+  }
+
+  .footer-menu li{
+    padding-bottom: 19px;
+
+  }
+
+
+
+  .social-networks{
+    width: 278px;
+
+    margin-top: 89px;
+  }
+
+  .downloads{
+    width: 239px;
+
+    margin-top: 72px;
+  }
+
+}
