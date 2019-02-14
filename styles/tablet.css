@@ -1,0 +1,152 @@
+@media (min-width: 768px) {
+  header {
+    padding: 20px 30px;
+  }
+
+  .logo{
+    width: 246px;
+  }
+
+  #burger{
+    width: 49px;
+  }
+
+   h1{
+   font-family: "EB Garamond", serif;
+
+   font-size: 70px;
+   font-weight: 400;
+   line-height: 80px;
+   padding-bottom: 14px;
+  }
+
+  p {
+    font-family: "Geometria", sans-serif;
+    font-size: 20px;
+    line-height: 31px;
+    font-weight: 400;
+  }
+
+  h2{
+    text-align: center;
+
+    font-family: "Geometria",sans-serif;
+    font-weight: 500;
+    font-size: 30px;
+    margin-bottom: 81px;
+  }
+
+  h3{
+    font-family: "Geometria",sans-serif;
+    font-weight: 600;
+    font-size: 25px;
+
+    margin-top: 25px;
+    margin-bottom: 10px;
+
+  }
+
+
+  .What-is-it h1{
+    font-family: "EB Garamond", serif;
+
+    font-size: 70px;
+    font-weight: 400;
+    line-height: 85px;
+    padding-bottom: 14px;
+  }
+
+  .What-is-it-inner{
+   width: 662px;
+   text-align: left;
+   }
+
+   .main-image img{
+     width: 768px;
+     margin-top: -290px;
+   }
+
+  .What-about-it{
+    margin-top: -170px;
+    margin-left: 394px;
+    margin-bottom: 112px;
+    text-align: right;
+
+  }
+
+  .What-about-it-inner{
+
+    width: 364px;
+    text-align: left;
+
+  }
+
+
+
+  .is-principles{
+
+    margin-left: 201px;
+    margin-right: 201px;
+    margin-top: 150px;
+    text-align: center;
+
+  }
+
+
+  .principles-wrapper article{
+    margin-bottom: 83px;
+  }
+
+  .is-read-and-write img{
+    width: 768px;
+
+  }
+
+  .is-read-and-write{
+
+    text-align: center;
+    margin-top: 100px;
+
+  }
+
+  .is-advantages-wrapper img{
+    margin-bottom: 30px;
+    width: 300px;
+  }
+  .is-advantages{
+    margin-left: 233px;
+    margin-right: 232px;
+  }
+
+
+  .footer{
+    margin-top: 150px;
+  }
+
+  .footer-menu{
+    display: flex;
+    flex-direction: column-reverse;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    height: 150px;
+
+  }
+
+  
+  }
+  .footer-in-footer{
+    display: flex;
+    flex-direction: column;
+
+  }
+  .social-networks{
+    width: 500px;
+  }
+
+  .downloads{
+    width: 400px;
+  }
+
+
+
+}

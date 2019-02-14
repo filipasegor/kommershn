@@ -1,0 +1,14 @@
+@import "reset.css";
+@import "fonts.css";
+@import url('https://fonts.googleapis.com/css?family=EB+Garamond:400,500');
+@import "mobile.css";
+@import "tablet.css";
+@import "desktop.css";
+@import "desktophd.css";
+
+* {
+  box-sizing: border-box;
+
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
